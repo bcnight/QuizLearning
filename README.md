@@ -1,6 +1,7 @@
 # System_Learning
 Membuat media belajar dengan menggunakan basis CLI (Command Line Interface).
 
+
 🌴 santai santai santai santai santai santai 🌴
 
 **What's New in v.51** 💫
@@ -15,3 +16,8 @@ Membuat media belajar dengan menggunakan basis CLI (Command Line Interface).
 - open the System_Learning
 - cd v5.1
 - python3 learn.py
+
+**Requirements**
+- Python 3
+- requests module
+- json module
