@@ -1,4 +1,4 @@
-# System_Learning
+# Quiz Learning
 Membuat media belajar dengan menggunakan basis CLI (Command Line Interface).
 
 
