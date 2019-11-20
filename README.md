@@ -10,14 +10,14 @@ Membuat media belajar dengan menggunakan basis CLI (Command Line Interface).
 - May see course                          / - Lihat Mata Pelajaran
 - May see minimal completeness criteria   / - Bisa melihat nilai KKM
 
-## How to use
+## How to use 💫
 - Open Your Terminal.
 - type in your terminal "git clone https://github.com/System_Learning"
 - open the System_Learning
 - cd v5.1
 - python3 learn.py
 
-## Requirements
+## Requirements 💫
 - Python 3
 - requests module
 - json module
